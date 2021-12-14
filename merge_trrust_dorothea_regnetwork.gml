@@ -25004,6 +25004,1398 @@ graph [
     id 6250
     label "WHRN"
   ]
+  node [
+    id 6251
+    label "MMU-MIR-21A-5P"
+  ]
+  node [
+    id 6252
+    label "H1F0"
+  ]
+  node [
+    id 6253
+    label "PSMC5"
+  ]
+  node [
+    id 6254
+    label "RBP2"
+  ]
+  node [
+    id 6255
+    label "SLC18A3"
+  ]
+  node [
+    id 6256
+    label "SVS6"
+  ]
+  node [
+    id 6257
+    label "TAT"
+  ]
+  node [
+    id 6258
+    label "MECR"
+  ]
+  node [
+    id 6259
+    label "SH2D3C"
+  ]
+  node [
+    id 6260
+    label "DHRS4"
+  ]
+  node [
+    id 6261
+    label "PBSN"
+  ]
+  node [
+    id 6262
+    label "LGALS12"
+  ]
+  node [
+    id 6263
+    label "RQCD1"
+  ]
+  node [
+    id 6264
+    label "C4A"
+  ]
+  node [
+    id 6265
+    label "AURKAIP1"
+  ]
+  node [
+    id 6266
+    label "CRISP1"
+  ]
+  node [
+    id 6267
+    label "AIP"
+  ]
+  node [
+    id 6268
+    label "C4B"
+  ]
+  node [
+    id 6269
+    label "CAR5A"
+  ]
+  node [
+    id 6270
+    label "HSD11B1"
+  ]
+  node [
+    id 6271
+    label "GM5506"
+  ]
+  node [
+    id 6272
+    label "ENO3"
+  ]
+  node [
+    id 6273
+    label "FIGF"
+  ]
+  node [
+    id 6274
+    label "GAPDH"
+  ]
+  node [
+    id 6275
+    label "SUMO1"
+  ]
+  node [
+    id 6276
+    label "SENP2"
+  ]
+  node [
+    id 6277
+    label "HKDC1"
+  ]
+  node [
+    id 6278
+    label "HK3"
+  ]
+  node [
+    id 6279
+    label "PFKFB1"
+  ]
+  node [
+    id 6280
+    label "PFKFB2"
+  ]
+  node [
+    id 6281
+    label "LOC100042025"
+  ]
+  node [
+    id 6282
+    label "LOC100048117"
+  ]
+  node [
+    id 6283
+    label "ANGPT4"
+  ]
+  node [
+    id 6284
+    label "RORB"
+  ]
+  node [
+    id 6285
+    label "PDHA2"
+  ]
+  node [
+    id 6286
+    label "SFRP4"
+  ]
+  node [
+    id 6287
+    label "OSGEP"
+  ]
+  node [
+    id 6288
+    label "ARC"
+  ]
+  node [
+    id 6289
+    label "ATF6B"
+  ]
+  node [
+    id 6290
+    label "GBA"
+  ]
+  node [
+    id 6291
+    label "H2AFX"
+  ]
+  node [
+    id 6292
+    label "KRT10"
+  ]
+  node [
+    id 6293
+    label "NEU1"
+  ]
+  node [
+    id 6294
+    label "NEURL1A"
+  ]
+  node [
+    id 6295
+    label "SAA3"
+  ]
+  node [
+    id 6296
+    label "OTC"
+  ]
+  node [
+    id 6297
+    label "TRP53-PS"
+  ]
+  node [
+    id 6298
+    label "DMBT1"
+  ]
+  node [
+    id 6299
+    label "IGHG1"
+  ]
+  node [
+    id 6300
+    label "SFPI1"
+  ]
+  node [
+    id 6301
+    label "ADCY8"
+  ]
+  node [
+    id 6302
+    label "CACNA1S"
+  ]
+  node [
+    id 6303
+    label "CHGB"
+  ]
+  node [
+    id 6304
+    label "GALR1"
+  ]
+  node [
+    id 6305
+    label "KCNC1"
+  ]
+  node [
+    id 6306
+    label "MT3"
+  ]
+  node [
+    id 6307
+    label "NTSR2"
+  ]
+  node [
+    id 6308
+    label "RDH16"
+  ]
+  node [
+    id 6309
+    label "SCG2"
+  ]
+  node [
+    id 6310
+    label "GYG"
+  ]
+  node [
+    id 6311
+    label "CLIC4"
+  ]
+  node [
+    id 6312
+    label "SLC29A1"
+  ]
+  node [
+    id 6313
+    label "NRN1"
+  ]
+  node [
+    id 6314
+    label "MMU-MIR-708-3P"
+  ]
+  node [
+    id 6315
+    label "MMU-MIR-708-5P"
+  ]
+  node [
+    id 6316
+    label "A930017K11RIK"
+  ]
+  node [
+    id 6317
+    label "VMN1R239-PS"
+  ]
+  node [
+    id 6318
+    label "CHMP7"
+  ]
+  node [
+    id 6319
+    label "VMN1R42"
+  ]
+  node [
+    id 6320
+    label "VMN1R53"
+  ]
+  node [
+    id 6321
+    label "VMN1R40"
+  ]
+  node [
+    id 6322
+    label "ADH7"
+  ]
+  node [
+    id 6323
+    label "ARL4A"
+  ]
+  node [
+    id 6324
+    label "CKB"
+  ]
+  node [
+    id 6325
+    label "FZD1"
+  ]
+  node [
+    id 6326
+    label "GAS1"
+  ]
+  node [
+    id 6327
+    label "HIST2H3C1"
+  ]
+  node [
+    id 6328
+    label "TRMT2A"
+  ]
+  node [
+    id 6329
+    label "IGH-VJ558"
+  ]
+  node [
+    id 6330
+    label "VMN1R229"
+  ]
+  node [
+    id 6331
+    label "VMN1R227"
+  ]
+  node [
+    id 6332
+    label "NPPC"
+  ]
+  node [
+    id 6333
+    label "NSDHL"
+  ]
+  node [
+    id 6334
+    label "RABGGTB"
+  ]
+  node [
+    id 6335
+    label "RANBP1"
+  ]
+  node [
+    id 6336
+    label "RPL30"
+  ]
+  node [
+    id 6337
+    label "POLR2A"
+  ]
+  node [
+    id 6338
+    label "RPS7"
+  ]
+  node [
+    id 6339
+    label "NKX1-2"
+  ]
+  node [
+    id 6340
+    label "LRRC25"
+  ]
+  node [
+    id 6341
+    label "LACTB2"
+  ]
+  node [
+    id 6342
+    label "FBXL21"
+  ]
+  node [
+    id 6343
+    label "TK"
+  ]
+  node [
+    id 6344
+    label "TKT"
+  ]
+  node [
+    id 6345
+    label "DYNC1LI2"
+  ]
+  node [
+    id 6346
+    label "OLFR1104"
+  ]
+  node [
+    id 6347
+    label "OLFR1378"
+  ]
+  node [
+    id 6348
+    label "OLFR808"
+  ]
+  node [
+    id 6349
+    label "LSM2"
+  ]
+  node [
+    id 6350
+    label "SLC39A1"
+  ]
+  node [
+    id 6351
+    label "SLC25A48"
+  ]
+  node [
+    id 6352
+    label "CLDN9"
+  ]
+  node [
+    id 6353
+    label "ARL14"
+  ]
+  node [
+    id 6354
+    label "2010106C02RIK"
+  ]
+  node [
+    id 6355
+    label "GALK1"
+  ]
+  node [
+    id 6356
+    label "IFNGR2"
+  ]
+  node [
+    id 6357
+    label "OLFR54"
+  ]
+  node [
+    id 6358
+    label "SPINT1"
+  ]
+  node [
+    id 6359
+    label "TUBB4B"
+  ]
+  node [
+    id 6360
+    label "DDX20"
+  ]
+  node [
+    id 6361
+    label "MMU-MIR-375-3P"
+  ]
+  node [
+    id 6362
+    label "MOGS"
+  ]
+  node [
+    id 6363
+    label "TRPV5"
+  ]
+  node [
+    id 6364
+    label "GGTA1"
+  ]
+  node [
+    id 6365
+    label "GAL"
+  ]
+  node [
+    id 6366
+    label "ITGA3"
+  ]
+  node [
+    id 6367
+    label "IL3RA"
+  ]
+  node [
+    id 6368
+    label "GGH"
+  ]
+  node [
+    id 6369
+    label "B3GALT4"
+  ]
+  node [
+    id 6370
+    label "RDH7"
+  ]
+  node [
+    id 6371
+    label "ZFP354C"
+  ]
+  node [
+    id 6372
+    label "NCDN"
+  ]
+  node [
+    id 6373
+    label "TIE1"
+  ]
+  node [
+    id 6374
+    label "IGBP1"
+  ]
+  node [
+    id 6375
+    label "AGTR2"
+  ]
+  node [
+    id 6376
+    label "SETD1A"
+  ]
+  node [
+    id 6377
+    label "SLC26A1"
+  ]
+  node [
+    id 6378
+    label "MAN2B1"
+  ]
+  node [
+    id 6379
+    label "LOC640611"
+  ]
+  node [
+    id 6380
+    label "MMU-MIR-196B-5P"
+  ]
+  node [
+    id 6381
+    label "WNT2"
+  ]
+  node [
+    id 6382
+    label "WNT6"
+  ]
+  node [
+    id 6383
+    label "HHIP"
+  ]
+  node [
+    id 6384
+    label "PTCH2"
+  ]
+  node [
+    id 6385
+    label "WNT8A"
+  ]
+  node [
+    id 6386
+    label "WNT16"
+  ]
+  node [
+    id 6387
+    label "WNT9B"
+  ]
+  node [
+    id 6388
+    label "MMU-MIR-212-3P"
+  ]
+  node [
+    id 6389
+    label "MMU-MIR-132-3P"
+  ]
+  node [
+    id 6390
+    label "MMU-MIR-322-3P"
+  ]
+  node [
+    id 6391
+    label "MMU-MIR-322-5P"
+  ]
+  node [
+    id 6392
+    label "P4HB"
+  ]
+  node [
+    id 6393
+    label "MAP2K4"
+  ]
+  node [
+    id 6394
+    label "PLOD2"
+  ]
+  node [
+    id 6395
+    label "MMU-MIR-194-5P"
+  ]
+  node [
+    id 6396
+    label "ITGA8"
+  ]
+  node [
+    id 6397
+    label "ZFP192"
+  ]
+  node [
+    id 6398
+    label "SERPINB6A"
+  ]
+  node [
+    id 6399
+    label "KRTAP16-1"
+  ]
+  node [
+    id 6400
+    label "LY6F"
+  ]
+  node [
+    id 6401
+    label "LY6C1"
+  ]
+  node [
+    id 6402
+    label "A430106F12RIK"
+  ]
+  node [
+    id 6403
+    label "A930005N03RIK"
+  ]
+  node [
+    id 6404
+    label "EEF1B2"
+  ]
+  node [
+    id 6405
+    label "TUBB5"
+  ]
+  node [
+    id 6406
+    label "PXMP2"
+  ]
+  node [
+    id 6407
+    label "POU6F1"
+  ]
+  node [
+    id 6408
+    label "PMP22"
+  ]
+  node [
+    id 6409
+    label "ELMO2"
+  ]
+  node [
+    id 6410
+    label "CNN1"
+  ]
+  node [
+    id 6411
+    label "ADAM19"
+  ]
+  node [
+    id 6412
+    label "HSPA1L"
+  ]
+  node [
+    id 6413
+    label "HSPA2"
+  ]
+  node [
+    id 6414
+    label "IDO2"
+  ]
+  node [
+    id 6415
+    label "GM12597"
+  ]
+  node [
+    id 6416
+    label "ATP10A"
+  ]
+  node [
+    id 6417
+    label "COL7A1"
+  ]
+  node [
+    id 6418
+    label "NCAN"
+  ]
+  node [
+    id 6419
+    label "H2-L"
+  ]
+  node [
+    id 6420
+    label "LY9"
+  ]
+  node [
+    id 6421
+    label "SDC4"
+  ]
+  node [
+    id 6422
+    label "PRH1"
+  ]
+  node [
+    id 6423
+    label "EMILIN1"
+  ]
+  node [
+    id 6424
+    label "RDH1"
+  ]
+  node [
+    id 6425
+    label "AANAT"
+  ]
+  node [
+    id 6426
+    label "LOC100047997"
+  ]
+  node [
+    id 6427
+    label "MAPK11"
+  ]
+  node [
+    id 6428
+    label "MAPK12"
+  ]
+  node [
+    id 6429
+    label "MAPK13"
+  ]
+  node [
+    id 6430
+    label "PDCD4"
+  ]
+  node [
+    id 6431
+    label "EMR1"
+  ]
+  node [
+    id 6432
+    label "HDC"
+  ]
+  node [
+    id 6433
+    label "ST6GALNAC1"
+  ]
+  node [
+    id 6434
+    label "UCHL1"
+  ]
+  node [
+    id 6435
+    label "MYCT1"
+  ]
+  node [
+    id 6436
+    label "DFFB"
+  ]
+  node [
+    id 6437
+    label "EIF2S1"
+  ]
+  node [
+    id 6438
+    label "EMP1"
+  ]
+  node [
+    id 6439
+    label "NPM1"
+  ]
+  node [
+    id 6440
+    label "MMU-MIR-429-3P"
+  ]
+  node [
+    id 6441
+    label "MMU-MIR-200C-3P"
+  ]
+  node [
+    id 6442
+    label "MMU-MIR-200A-3P"
+  ]
+  node [
+    id 6443
+    label "MMU-MIR-200B-3P"
+  ]
+  node [
+    id 6444
+    label "MMU-MIR-141-3P"
+  ]
+  node [
+    id 6445
+    label "IAPP"
+  ]
+  node [
+    id 6446
+    label "CRYGC"
+  ]
+  node [
+    id 6447
+    label "HTR3A"
+  ]
+  node [
+    id 6448
+    label "LDHC"
+  ]
+  node [
+    id 6449
+    label "MDH2"
+  ]
+  node [
+    id 6450
+    label "MDH1"
+  ]
+  node [
+    id 6451
+    label "NEFM"
+  ]
+  node [
+    id 6452
+    label "PKD2"
+  ]
+  node [
+    id 6453
+    label "PRL3D1"
+  ]
+  node [
+    id 6454
+    label "LCN8"
+  ]
+  node [
+    id 6455
+    label "SLC2A8"
+  ]
+  node [
+    id 6456
+    label "SKIV2L"
+  ]
+  node [
+    id 6457
+    label "TRAF6"
+  ]
+  node [
+    id 6458
+    label "TRAF5"
+  ]
+  node [
+    id 6459
+    label "AHRR"
+  ]
+  node [
+    id 6460
+    label "MMU-MIR-146A-5P"
+  ]
+  node [
+    id 6461
+    label "GM2023"
+  ]
+  node [
+    id 6462
+    label "LOC100862177"
+  ]
+  node [
+    id 6463
+    label "GM1987"
+  ]
+  node [
+    id 6464
+    label "GM13304"
+  ]
+  node [
+    id 6465
+    label "GM10591"
+  ]
+  node [
+    id 6466
+    label "LOC100041593"
+  ]
+  node [
+    id 6467
+    label "LOC100041504"
+  ]
+  node [
+    id 6468
+    label "SLCO1A4"
+  ]
+  node [
+    id 6469
+    label "SLCO1A6"
+  ]
+  node [
+    id 6470
+    label "SLCO1A5"
+  ]
+  node [
+    id 6471
+    label "SLCO1A1"
+  ]
+  node [
+    id 6472
+    label "OSTB"
+  ]
+  node [
+    id 6473
+    label "OSTA"
+  ]
+  node [
+    id 6474
+    label "FXYD4"
+  ]
+  node [
+    id 6475
+    label "ATP1B2"
+  ]
+  node [
+    id 6476
+    label "ATP1B3"
+  ]
+  node [
+    id 6477
+    label "ATP1A4"
+  ]
+  node [
+    id 6478
+    label "ATP1B4"
+  ]
+  node [
+    id 6479
+    label "SLC22A8"
+  ]
+  node [
+    id 6480
+    label "MMP21"
+  ]
+  node [
+    id 6481
+    label "VPREB1"
+  ]
+  node [
+    id 6482
+    label "CRYBB1"
+  ]
+  node [
+    id 6483
+    label "CRYBB2"
+  ]
+  node [
+    id 6484
+    label "CRYGF"
+  ]
+  node [
+    id 6485
+    label "PED"
+  ]
+  node [
+    id 6486
+    label "MMU-MIR-125A-5P"
+  ]
+  node [
+    id 6487
+    label "CITED1"
+  ]
+  node [
+    id 6488
+    label "MMU-LET-7G-5P"
+  ]
+  node [
+    id 6489
+    label "NIF3L1"
+  ]
+  node [
+    id 6490
+    label "SNRPA"
+  ]
+  node [
+    id 6491
+    label "SNRPB"
+  ]
+  node [
+    id 6492
+    label "MMU-MIR-302A-3P"
+  ]
+  node [
+    id 6493
+    label "MMU-MIR-302D-3P"
+  ]
+  node [
+    id 6494
+    label "MMU-MIR-302B-3P"
+  ]
+  node [
+    id 6495
+    label "MMU-MIR-302C-3P"
+  ]
+  node [
+    id 6496
+    label "ACAA1A"
+  ]
+  node [
+    id 6497
+    label "CYP4A14"
+  ]
+  node [
+    id 6498
+    label "ACSL6"
+  ]
+  node [
+    id 6499
+    label "CYP4A29-PS"
+  ]
+  node [
+    id 6500
+    label "ACAA1B"
+  ]
+  node [
+    id 6501
+    label "SLC27A4"
+  ]
+  node [
+    id 6502
+    label "SCD3"
+  ]
+  node [
+    id 6503
+    label "ACSBG2"
+  ]
+  node [
+    id 6504
+    label "CYP4A30B-PS"
+  ]
+  node [
+    id 6505
+    label "ACSL3"
+  ]
+  node [
+    id 6506
+    label "CPT1C"
+  ]
+  node [
+    id 6507
+    label "ACOX3"
+  ]
+  node [
+    id 6508
+    label "ACADL"
+  ]
+  node [
+    id 6509
+    label "PDPK1"
+  ]
+  node [
+    id 6510
+    label "MMU-MIR-378A-3P"
+  ]
+  node [
+    id 6511
+    label "SCAND1"
+  ]
+  node [
+    id 6512
+    label "FABP5"
+  ]
+  node [
+    id 6513
+    label "GYK"
+  ]
+  node [
+    id 6514
+    label "GK2"
+  ]
+  node [
+    id 6515
+    label "AQP7"
+  ]
+  node [
+    id 6516
+    label "MMU-MIR-182-5P"
+  ]
+  node [
+    id 6517
+    label "MMU-MIR-183-5P"
+  ]
+  node [
+    id 6518
+    label "MMU-MIR-205-5P"
+  ]
+  node [
+    id 6519
+    label "MMU-MIR-96-5P"
+  ]
+  node [
+    id 6520
+    label "MMU-MIR-103-3P"
+  ]
+  node [
+    id 6521
+    label "MMU-MIR-148B-3P"
+  ]
+  node [
+    id 6522
+    label "MMU-MIR-378A-5P"
+  ]
+  node [
+    id 6523
+    label "BCMO1"
+  ]
+  node [
+    id 6524
+    label "MMU-MIR-124-3P"
+  ]
+  node [
+    id 6525
+    label "NPDC1"
+  ]
+  node [
+    id 6526
+    label "FGR"
+  ]
+  node [
+    id 6527
+    label "G6PD2"
+  ]
+  node [
+    id 6528
+    label "GPD2"
+  ]
+  node [
+    id 6529
+    label "IGJ"
+  ]
+  node [
+    id 6530
+    label "PIP"
+  ]
+  node [
+    id 6531
+    label "CAMK1D"
+  ]
+  node [
+    id 6532
+    label "MMU-MIR-7A-5P"
+  ]
+  node [
+    id 6533
+    label "ACVR1B"
+  ]
+  node [
+    id 6534
+    label "ERBB2IP"
+  ]
+  node [
+    id 6535
+    label "SF3B2"
+  ]
+  node [
+    id 6536
+    label "SPRED3"
+  ]
+  node [
+    id 6537
+    label "SPRED1"
+  ]
+  node [
+    id 6538
+    label "SPRY4"
+  ]
+  node [
+    id 6539
+    label "SPRY3"
+  ]
+  node [
+    id 6540
+    label "SOS2"
+  ]
+  node [
+    id 6541
+    label "MTCH1"
+  ]
+  node [
+    id 6542
+    label "CD24A"
+  ]
+  node [
+    id 6543
+    label "CKMT1"
+  ]
+  node [
+    id 6544
+    label "SLC26A2"
+  ]
+  node [
+    id 6545
+    label "HBA-A1"
+  ]
+  node [
+    id 6546
+    label "HPN"
+  ]
+  node [
+    id 6547
+    label "HRAS1"
+  ]
+  node [
+    id 6548
+    label "MYH2"
+  ]
+  node [
+    id 6549
+    label "PRPH"
+  ]
+  node [
+    id 6550
+    label "RGN"
+  ]
+  node [
+    id 6551
+    label "ST6GALNAC2"
+  ]
+  node [
+    id 6552
+    label "SPINK3"
+  ]
+  node [
+    id 6553
+    label "CASP4"
+  ]
+  node [
+    id 6554
+    label "KRTAP15"
+  ]
+  node [
+    id 6555
+    label "GBP5"
+  ]
+  node [
+    id 6556
+    label "EPB4.2"
+  ]
+  node [
+    id 6557
+    label "RNF41"
+  ]
+  node [
+    id 6558
+    label "MMU-MIR-709"
+  ]
+  node [
+    id 6559
+    label "MMU-MIR-451A"
+  ]
+  node [
+    id 6560
+    label "BGN"
+  ]
+  node [
+    id 6561
+    label "CLGN"
+  ]
+  node [
+    id 6562
+    label "DHX9"
+  ]
+  node [
+    id 6563
+    label "GGT1"
+  ]
+  node [
+    id 6564
+    label "GM2A"
+  ]
+  node [
+    id 6565
+    label "GPC3"
+  ]
+  node [
+    id 6566
+    label "PGGT1B"
+  ]
+  node [
+    id 6567
+    label "LRDD"
+  ]
+  node [
+    id 6568
+    label "RAMP2"
+  ]
+  node [
+    id 6569
+    label "FKBP3"
+  ]
+  node [
+    id 6570
+    label "RFWD2"
+  ]
+  node [
+    id 6571
+    label "CABLES2"
+  ]
+  node [
+    id 6572
+    label "DAGLB"
+  ]
+  node [
+    id 6573
+    label "AAMP"
+  ]
+  node [
+    id 6574
+    label "TERC"
+  ]
+  node [
+    id 6575
+    label "TEP1"
+  ]
+  node [
+    id 6576
+    label "SSRP1"
+  ]
+  node [
+    id 6577
+    label "IRS3"
+  ]
+  node [
+    id 6578
+    label "HNRNPAB"
+  ]
+  node [
+    id 6579
+    label "FDXR"
+  ]
+  node [
+    id 6580
+    label "EXPI"
+  ]
+  node [
+    id 6581
+    label "EEF1A2"
+  ]
+  node [
+    id 6582
+    label "EEF1A1"
+  ]
+  node [
+    id 6583
+    label "CSN3"
+  ]
+  node [
+    id 6584
+    label "CDC42"
+  ]
+  node [
+    id 6585
+    label "BAI1"
+  ]
+  node [
+    id 6586
+    label "SESN3"
+  ]
+  node [
+    id 6587
+    label "2300009N04RIK"
+  ]
+  node [
+    id 6588
+    label "SHISA5"
+  ]
+  node [
+    id 6589
+    label "MMU-MIR-34A-5P"
+  ]
+  node [
+    id 6590
+    label "GABBR1"
+  ]
+  node [
+    id 6591
+    label "SURF2"
+  ]
+  node [
+    id 6592
+    label "PRKACA"
+  ]
+  node [
+    id 6593
+    label "MYOC"
+  ]
+  node [
+    id 6594
+    label "CFH"
+  ]
+  node [
+    id 6595
+    label "RPS14"
+  ]
+  node [
+    id 6596
+    label "COX5B"
+  ]
+  node [
+    id 6597
+    label "S100G"
+  ]
+  node [
+    id 6598
+    label "GLYAT"
+  ]
   edge [
     source 0
     target 1
@@ -25039,6 +26431,12 @@ graph [
     target 6
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 3
+    target 6
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 6
@@ -27093,6 +28491,324 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 6
+    target 3902
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6567
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6568
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 1613
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6569
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 3489
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6570
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6571
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6572
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 3758
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6573
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 1440
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 5826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6574
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6575
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6576
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 50
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 2766
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 5748
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 3363
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 1779
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 2119
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 600
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 575
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 790
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6577
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 448
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6547
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6578
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 4978
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 2283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6579
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6580
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 798
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6581
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6582
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 20
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 3823
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6583
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 214
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6584
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 154
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 133
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 3012
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 1323
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6585
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 4126
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 231
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 1181
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6586
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6587
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6
+    target 6588
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 7
     target 6
     effect "Unknown"
@@ -27439,6 +29155,12 @@ graph [
     target 35
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 8
+    target 6589
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 9
@@ -28201,6 +29923,216 @@ graph [
     target 574
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 21
+    target 6319
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6354
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6353
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 5723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6352
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 4686
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6351
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6347
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6346
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6345
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 5833
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6342
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6341
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 919
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6331
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 239
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6330
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 5165
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 1188
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6329
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6325
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 3250
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 42
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 1397
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 3576
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6317
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6318
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6334
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 400
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6321
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6320
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6340
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6322
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 21
+    target 6316
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 22
@@ -29137,6 +31069,18 @@ graph [
     target 325
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 48
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 48
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 49
@@ -31489,6 +33433,192 @@ graph [
     target 3571
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 49
+    target 164
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6435
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6379
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 2329
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6437
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6438
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 798
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6274
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 548
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 1239
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 320
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6439
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 1022
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 3619
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 3346
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 5625
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 655
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 3112
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6440
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6441
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6442
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6443
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 6444
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 49
+    target 3834
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 51
@@ -33879,6 +36009,252 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 56
+    target 1754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6362
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 4754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6371
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 2134
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 4083
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6297
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6457
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 5826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 5327
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 3626
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 663
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6421
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6308
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 1819
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 651
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 1669
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 781
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 190
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 1193
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 1833
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 2355
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 3749
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 296
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 2814
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 1852
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 54
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 491
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 934
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6459
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 168
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 825
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 424
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 56
+    target 6460
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 57
     target 1787
     effect "Activation"
@@ -34267,6 +36643,24 @@ graph [
     target 2832
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 57
+    target 491
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 57
+    target 985
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 57
+    target 6481
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 58
@@ -35715,6 +38109,192 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 58
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 857
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 491
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 54
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 752
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 119
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 296
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 3749
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 1265
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 4754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 382
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 1655
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 6259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 6457
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 6458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 5826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 5327
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 801
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 596
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 854
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 1188
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 6357
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 600
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 707
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 1193
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 626
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 58
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 59
     target 276
     effect "Activation"
@@ -36559,6 +39139,498 @@ graph [
     target 2537
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 60
+    target 6252
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1694
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 56
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1064
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 304
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1046
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1937
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 787
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1854
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 4799
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1778
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 251
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6253
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1929
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1478
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6254
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6255
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1856
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1591
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6256
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 4044
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 3807
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 955
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1718
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1848
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1894
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6257
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 997
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 2911
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1893
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6258
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 323
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6260
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6261
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6262
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1880
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6263
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6264
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6265
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 387
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 2228
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6266
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1858
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1254
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 4243
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 2417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6269
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 48
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 119
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 3749
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1583
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 380
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 3428
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1881
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 3232
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 659
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 5647
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 202
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 799
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1156
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1166
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 636
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 6270
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 5959
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1935
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 939
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 1096
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 60
+    target 368
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 64
@@ -37857,6 +40929,24 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 72
+    target 1646
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 72
+    target 604
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 72
+    target 726
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 74
     target 75
     effect "Unknown"
@@ -38631,6 +41721,270 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 83
+    target 6271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 4156
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 43
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6272
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6274
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 2975
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6275
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 3522
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 2190
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 115
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 797
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6276
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6277
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6278
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 1283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 2490
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 290
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 4160
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 163
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 1098
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 4157
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 493
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6279
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6280
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6281
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6282
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 767
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 6283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 2723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 4
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 144
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 587
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 2419
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 597
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 83
+    target 1267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 86
     target 87
     effect "Activation"
@@ -38737,6 +42091,24 @@ graph [
     target 2619
     effect "Unknown"
     found_in "DoRothEA, RegNetwork"
+  ]
+  edge [
+    source 86
+    target 1986
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 86
+    target 206
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 86
+    target 6284
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 87
@@ -39879,6 +43251,18 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 95
+    target 6558
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 95
+    target 6559
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 98
     target 99
     effect "Unknown"
@@ -40479,6 +43863,120 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 118
+    target 3178
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 618
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 6285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 30
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 535
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 6286
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 311
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 2285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 630
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 553
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 6287
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 765
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 1291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 52
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 232
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 118
+    target 1261
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 119
     target 7
     effect "Unknown"
@@ -40911,6 +44409,108 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 119
+    target 6296
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 6295
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 5945
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 3950
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 1770
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 6297
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 963
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 2961
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 1603
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 6298
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 6299
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 6292
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 453
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 2502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 119
+    target 3149
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 123
     target 124
     effect "Activation"
@@ -41119,6 +44719,60 @@ graph [
     target 561
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 123
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 123
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 124
@@ -42081,6 +45735,174 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 125
+    target 403
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 5569
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 117
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 133
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 1711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 694
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 696
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 1043
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 159
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 1868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 6290
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 6291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 6292
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 6293
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 6294
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 2502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 2503
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 109
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 6295
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 3950
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 5279
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 1129
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 1770
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 125
+    target 1860
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 128
     target 825
     effect "Unknown"
@@ -42921,6 +46743,42 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 128
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 128
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 128
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 128
+    target 85
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 128
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 128
+    target 6379
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 132
     target 403
     effect "Unknown"
@@ -43383,6 +47241,318 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 132
+    target 6510
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 2945
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6503
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 323
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6501
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6377
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6275
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6498
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 1856
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 2944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 1819
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6511
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 390
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 1706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 1888
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 56
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 1542
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 368
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6512
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6513
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6514
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 202
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 700
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 3232
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 4255
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 432
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6515
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 1611
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 4799
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6496
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 1703
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 5356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6516
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6517
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6518
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6519
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6520
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6521
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6522
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 2122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6276
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 2670
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 6523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 132
+    target 4211
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 136
     target 136
     effect "Repression"
@@ -43729,6 +47899,24 @@ graph [
     target 2699
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 136
+    target 859
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 136
+    target 147
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 136
+    target 268
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 139
@@ -44085,6 +48273,12 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 139
+    target 980
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 142
     target 143
     effect "Unknown"
@@ -44239,6 +48433,60 @@ graph [
     target 465
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 142
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 142
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 152
@@ -45519,6 +49767,30 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 170
+    target 4268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 170
+    target 5167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 170
+    target 6479
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 170
+    target 6480
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 171
     target 172
     effect "Activation"
@@ -46077,6 +50349,18 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 181
+    target 6251
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 181
+    target 6380
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 182
     target 894
     effect "Unknown"
@@ -46287,6 +50571,30 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 185
+    target 5227
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 189
+    target 604
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 189
+    target 6414
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 189
+    target 5684
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 190
     target 124
     effect "Activation, Repression"
@@ -46399,6 +50707,156 @@ graph [
     target 1647
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 190
+    target 6461
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 5826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 5327
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 3526
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 5054
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 895
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 30
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 488
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 3749
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 489
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6463
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 1615
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 1191
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6464
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6465
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6466
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 716
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 4754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6457
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 604
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 190
+    target 6467
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 192
@@ -46687,6 +51145,12 @@ graph [
     target 324
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 192
+    target 4408
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 193
@@ -47065,6 +51529,12 @@ graph [
     target 2859
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 197
+    target 2947
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 198
@@ -48807,6 +53277,24 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 210
+    target 1689
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 210
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 210
+    target 6526
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 212
     target 213
     effect "Unknown"
@@ -49863,6 +54351,30 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 226
+    target 3535
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 226
+    target 201
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 226
+    target 1854
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 227
+    target 6251
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 229
     target 6
     effect "Repression"
@@ -50023,6 +54535,12 @@ graph [
     target 1817
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 231
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 232
@@ -50617,6 +55135,486 @@ graph [
     target 2244
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 234
+    target 1941
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 3624
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6301
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 226
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 232
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 666
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 213
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 3213
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 119
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1261
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 3614
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 375
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 429
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 3441
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6304
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1270
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1762
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 840
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1687
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1975
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1978
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1976
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1977
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 5458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1979
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 3296
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 618
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 2454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6241
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 5034
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 448
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6305
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 2675
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 743
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 708
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 710
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6307
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 93
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 94
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 2619
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 796
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 758
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1819
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1628
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6308
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6309
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6286
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 862
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 5625
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 311
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 2285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 561
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 1291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 2777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 2190
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 466
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 765
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 753
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6310
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6311
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6312
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6287
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 6313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 234
+    target 553
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 235
@@ -51649,6 +56647,36 @@ graph [
     target 682
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 251
+    target 1109
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 251
+    target 6492
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 251
+    target 6493
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 251
+    target 6494
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 251
+    target 6495
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 254
@@ -52737,6 +57765,18 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 273
+    target 970
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 273
+    target 4408
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 283
     target 452
     effect "Activation"
@@ -52933,6 +57973,30 @@ graph [
     target 295
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 294
+    target 969
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 294
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 294
+    target 6300
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 294
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 295
@@ -53227,6 +58291,24 @@ graph [
     target 2984
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 296
+    target 276
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 296
+    target 182
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 296
+    target 1860
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 297
@@ -54591,6 +59673,528 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 303
+    target 121
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 886
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 5279
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1791
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 934
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6416
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2814
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2292
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1455
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2327
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 340
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2137
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1603
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1398
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 416
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6418
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1051
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 524
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 632
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 3285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2925
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1833
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6290
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1761
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 4787
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1687
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6419
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2000
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 3296
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6241
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6420
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 743
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1345
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 483
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 611
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 204
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 774
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 879
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6379
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 5206
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6370
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2247
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 5584
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1817
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 3903
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6297
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 59
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 85
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 4168
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2530
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 560
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6421
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 1436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 360
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6300
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 58
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6308
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 289
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6422
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 5167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 5765
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2056
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6357
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 353
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 3897
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 3471
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 314
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6423
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 2982
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6424
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6425
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 825
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 303
+    target 6266
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 305
     target 306
     effect "Unknown"
@@ -54673,6 +60277,162 @@ graph [
     target 102
     effect "Repression"
     found_in "TRRUST, RegNetwork"
+  ]
+  edge [
+    source 306
+    target 6386
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 2042
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 892
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 687
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 6382
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 3611
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 514
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 325
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 916
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 5309
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 4084
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 6381
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 6387
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 2425
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 4947
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 97
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 467
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 2193
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 222
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 37
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 6385
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 6384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 1023
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 442
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 6383
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 306
+    target 306
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 308
@@ -55731,6 +61491,138 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 311
+    target 6298
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 6506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 3149
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 5711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 5712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 4158
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 6554
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 753
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 2777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 207
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 6286
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 5945
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 5714
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 3483
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 2221
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 5959
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 311
+    target 119
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 312
     target 313
     effect "Unknown"
@@ -56029,6 +61921,12 @@ graph [
     target 4986
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 314
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 316
@@ -56715,6 +62613,120 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 324
+    target 2
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 1273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 1271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 2137
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 1261
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 119
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 1383
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 48
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 5214
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 6534
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 6535
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 2505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 324
+    target 66
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 326
     target 87
     effect "Activation"
@@ -57075,6 +63087,30 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 326
+    target 206
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 326
+    target 6284
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 326
+    target 1986
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 326
+    target 1697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 327
     target 94
     effect "Unknown"
@@ -57193,6 +63229,42 @@ graph [
     target 626
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 329
+    target 291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 329
+    target 6468
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 329
+    target 1129
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 329
+    target 6469
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 329
+    target 6470
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 329
+    target 6471
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 333
@@ -58563,6 +64635,132 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 343
+    target 283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6361
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 1611
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 387
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6362
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6262
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6308
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6363
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 3713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 46
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 1543
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 307
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 449
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 1702
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6364
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6365
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 524
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 2880
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 343
+    target 6003
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 344
     target 659
     effect "Unknown"
@@ -59919,6 +66117,72 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 363
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 363
+    target 1566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 366
     target 367
     effect "Unknown"
@@ -60057,6 +66321,78 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 366
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 1566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 366
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 370
     target 371
     effect "Unknown"
@@ -60069,6 +66405,78 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 370
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 1566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 370
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 372
     target 822
     effect "Repression"
@@ -60079,6 +66487,78 @@ graph [
     target 374
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 373
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 1566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 373
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 375
@@ -60325,6 +66805,282 @@ graph [
     target 6
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 375
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 465
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 3522
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 2190
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 115
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 797
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6277
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6278
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 290
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 4160
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 4157
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 4156
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 43
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 1283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6280
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6279
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 493
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 2723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 1098
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 2490
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6281
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 2975
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6274
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6282
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 634
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 668
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 767
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 598
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 6272
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 1267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 597
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 2419
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 587
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 199
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 144
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 375
+    target 4
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 379
@@ -60753,6 +67509,270 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 382
+    target 6281
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6282
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 668
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 767
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 2723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 144
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 199
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 2419
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 597
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 1267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6272
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 598
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 634
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6274
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 2975
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 2490
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 1098
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 493
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6279
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6280
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 4157
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 4160
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 290
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6278
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6277
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 797
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 115
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 2190
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 3522
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 465
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 1283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 43
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 4156
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 382
+    target 6271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 384
     target 434
     effect "Repression"
@@ -60769,6 +67789,30 @@ graph [
     target 706
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 384
+    target 58
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 384
+    target 56
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 384
+    target 1761
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 384
+    target 2327
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 390
@@ -61039,6 +68083,54 @@ graph [
     target 4113
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 394
+    target 1975
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 394
+    target 1980
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 394
+    target 1979
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 394
+    target 5458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 394
+    target 1977
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 394
+    target 1976
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 394
+    target 1978
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 394
+    target 1941
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 395
@@ -61521,10 +68613,124 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 395
+    target 1979
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 395
+    target 1976
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 395
+    target 1975
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 395
+    target 1941
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 395
+    target 1978
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 395
+    target 1980
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 395
+    target 1977
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 395
+    target 5458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 396
     target 91
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 396
+    target 328
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 6284
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 1697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 87
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 206
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 1986
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 2619
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 93
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 94
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 327
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 396
+    target 88
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 399
@@ -62221,6 +69427,12 @@ graph [
     target 2664
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 404
+    target 401
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 405
@@ -63223,6 +70435,66 @@ graph [
     target 251
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 426
+    target 4168
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 6482
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 6483
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 6484
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 6445
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 1453
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 131
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 169
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 426
+    target 4627
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 427
@@ -65535,6 +72807,444 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 436
+    target 2128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6316
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6317
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6318
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6319
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6320
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6321
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6322
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 52
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6323
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1895
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1095
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 935
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 4028
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 293
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6324
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 326
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6325
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6326
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 511
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6327
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 4502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1166
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6328
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 423
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6329
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 5165
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 4336
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6330
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6331
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1379
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1381
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 919
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 42
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6332
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6333
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6334
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6335
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1188
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6336
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6337
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6338
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1397
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 4649
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 400
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6340
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6341
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6342
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 5833
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 1504
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6343
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6344
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6297
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 2378
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6345
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6346
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6347
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 2414
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6349
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6350
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6351
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 4686
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 4472
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 4832
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6352
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 5723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6353
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 6354
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 436
+    target 3576
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 442
     target 103
     effect "Repression"
@@ -66171,6 +73881,36 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 451
+    target 303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 451
+    target 851
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 451
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 451
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 451
+    target 460
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 455
     target 1259
     effect "Activation"
@@ -66567,6 +74307,18 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 459
+    target 970
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 459
+    target 4408
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 460
     target 1880
     effect "Repression"
@@ -66631,6 +74383,84 @@ graph [
     target 1894
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 460
+    target 5337
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 6508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 4799
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 5343
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 1205
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 6509
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 1549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 196
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 6506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 460
+    target 6507
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 464
@@ -67405,6 +75235,18 @@ graph [
     target 493
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 492
+    target 6314
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 492
+    target 6315
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 494
@@ -68685,6 +76527,126 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 524
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 2814
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 5548
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 524
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 1168
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 1833
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 6355
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 163
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 6356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 279
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 6357
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 5167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 172
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 6358
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 1443
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 362
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 524
+    target 6359
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 525
     target 766
     effect "Unknown"
@@ -69735,6 +77697,258 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 525
+    target 835
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 4405
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6366
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1851
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6241
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 2000
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6368
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 969
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 5647
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 2925
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 5035
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 2141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6269
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1181
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6369
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6370
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 263
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1629
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6371
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6372
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 753
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1658
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6373
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1153
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 2285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 663
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1443
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 3950
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 269
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 651
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1667
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 691
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 6374
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 2164
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 615
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 1403
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 525
+    target 790
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 526
     target 179
     effect "Activation"
@@ -70039,6 +78253,12 @@ graph [
     target 96
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 526
+    target 6373
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 527
@@ -70381,6 +78601,12 @@ graph [
     target 4404
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 527
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 529
@@ -70837,6 +79063,18 @@ graph [
     target 8
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 568
+    target 3250
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 568
+    target 239
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 570
@@ -72513,6 +80751,36 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 573
+    target 1868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 573
+    target 4154
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 573
+    target 1603
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 573
+    target 6434
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 573
+    target 29
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 576
     target 577
     effect "Unknown"
@@ -73149,6 +81417,18 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 602
+    target 6388
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 602
+    target 6389
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 605
     target 403
     effect "Repression"
@@ -73395,10 +81675,160 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 611
+    target 773
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 611
+    target 264
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 611
+    target 85
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 611
+    target 862
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 611
+    target 796
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 613
     target 524
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 613
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 613
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 1511
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 614
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 618
@@ -73743,6 +82173,36 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 626
+    target 1603
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 626
+    target 3019
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 626
+    target 6533
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 626
+    target 1262
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 626
+    target 2137
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 632
     target 633
     effect "Activation"
@@ -73827,6 +82287,42 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 632
+    target 438
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 632
+    target 2814
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 632
+    target 6360
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 632
+    target 6358
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 632
+    target 1166
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 632
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 635
     target 1161
     effect "Unknown"
@@ -73861,6 +82357,18 @@ graph [
     target 1052
     effect "Unknown"
     found_in "TRRUST, RegNetwork"
+  ]
+  edge [
+    source 636
+    target 637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 636
+    target 636
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 637
@@ -73951,6 +82459,18 @@ graph [
     target 304
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 644
+    target 6358
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 644
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 645
@@ -75603,6 +84123,84 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 652
+    target 1192
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 6553
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 745
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 102
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 955
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 270
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 6554
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 753
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 6555
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 652
+    target 4158
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 653
     target 654
     effect "Unknown"
@@ -76111,6 +84709,12 @@ graph [
     target 630
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 659
+    target 125
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 661
@@ -76771,6 +85375,36 @@ graph [
     target 5755
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 663
+    target 795
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 663
+    target 725
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 663
+    target 6556
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 663
+    target 3822
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 663
+    target 6557
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 665
@@ -77643,6 +86277,42 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 673
+    target 3483
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 673
+    target 5714
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 673
+    target 627
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 673
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 673
+    target 5712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 673
+    target 5711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 674
     target 524
     effect "Unknown"
@@ -77845,6 +86515,48 @@ graph [
     target 3716
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 674
+    target 2032
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 674
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 674
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 674
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 674
+    target 1615
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 674
+    target 488
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 674
+    target 489
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 677
@@ -80727,6 +89439,240 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 707
+    target 6430
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 1933
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 168
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 1
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 69
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 2292
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 213
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 144
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 199
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 375
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 6431
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 598
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 2922
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 732
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 1868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 969
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 6432
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 877
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 6367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 1887
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 4884
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 6374
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 29
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 651
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 289
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 1939
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 861
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 6433
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 540
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 6434
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 810
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 5622
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 521
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 3489
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 707
+    target 6261
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 708
     target 1450
     effect "Activation"
@@ -81555,6 +90501,18 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 709
+    target 137
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 709
+    target 6445
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 711
     target 1707
     effect "Activation"
@@ -81621,6 +90579,24 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 711
+    target 6472
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 711
+    target 6473
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 711
+    target 1605
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 712
     target 303
     effect "Unknown"
@@ -81637,6 +90613,168 @@ graph [
     target 1938
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 712
+    target 6525
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 6252
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 5647
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 659
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 438
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 380
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 48
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 6262
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 6263
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 387
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1848
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1937
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 251
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1478
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 4044
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 3807
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 955
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1935
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1096
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1543
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 712
+    target 1156
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 718
@@ -81771,6 +90909,84 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 718
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 1335
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 3451
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 856
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 561
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 114
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 3779
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 797
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 782
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 718
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 727
     target 728
     effect "Activation"
@@ -81889,6 +91105,18 @@ graph [
     target 2531
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 734
+    target 398
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 734
+    target 2436
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 736
@@ -82557,6 +91785,18 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 746
+    target 1109
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 746
+    target 7
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 748
     target 255
     effect "Activation"
@@ -83055,10 +92295,172 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 751
+    target 1702
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 753
     target 524
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 753
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 1455
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 753
+    target 6379
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 1455
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 6379
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 754
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 757
@@ -83503,6 +92905,288 @@ graph [
     target 135
     effect "Unknown"
     found_in "DoRothEA, RegNetwork"
+  ]
+  edge [
+    source 758
+    target 756
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6496
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 4243
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1583
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 2475
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1142
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6497
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1123
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1897
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 202
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6270
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 5959
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 368
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 2163
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 316
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1694
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 56
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 390
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 2944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 3959
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1856
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1591
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6498
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6499
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6500
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 997
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6501
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6258
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 1141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6260
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6503
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 2945
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 4211
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6504
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6265
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 2920
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 6507
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 758
+    target 2122
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 760
@@ -84879,6 +94563,186 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 787
+    target 1617
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 6269
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 5548
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 3285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 3616
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 1196
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 6290
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 3296
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 776
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 213
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 2292
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 6375
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 1181
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 6376
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 6377
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 115
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 4506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 1443
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 50
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 5347
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 4914
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 2352
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 1669
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 453
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 6378
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 1673
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 1345
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 787
+    target 6266
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 793
     target 580
     effect "Repression"
@@ -85815,6 +95679,96 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 854
+    target 596
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 6466
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 895
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 716
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 6467
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 6461
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 854
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 6462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 36
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 4
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 1265
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 604
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 6463
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 6464
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 854
+    target 6465
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 873
     target 103
     effect "Activation"
@@ -85971,6 +95925,144 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 873
+    target 222
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 5309
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 916
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 325
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 514
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 3611
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 6382
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 687
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 892
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 2042
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 6386
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 6387
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 2425
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 4947
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 97
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 467
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 2193
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 6385
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 6384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 6383
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 873
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 873
+    target 6381
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 877
     target 1090
     effect "Repression"
@@ -86083,6 +96175,12 @@ graph [
     target 728
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 886
+    target 530
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 888
@@ -86539,6 +96637,72 @@ graph [
     target 168
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 911
+    target 907
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 1603
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 2137
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 1262
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 199
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 6533
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 1271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 114
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 911
+    target 458
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 912
@@ -87753,6 +97917,24 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 932
+    target 1882
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 932
+    target 872
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 932
+    target 1631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 938
     target 132
     effect "Repression"
@@ -88033,6 +98215,24 @@ graph [
     target 717
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 942
+    target 2670
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 942
+    target 872
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 942
+    target 268
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 945
@@ -89433,6 +99633,24 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 975
+    target 239
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 975
+    target 3250
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 975
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 977
     target 817
     effect "Repression"
@@ -90783,6 +101001,48 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 999
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 999
+    target 75
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 999
+    target 2211
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 999
+    target 6526
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 999
+    target 1019
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 999
+    target 108
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 999
+    target 1689
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1001
     target 863
     effect "Activation"
@@ -91443,6 +101703,192 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1013
+    target 6381
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 4084
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 5309
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 916
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 325
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 514
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 3611
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 6382
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 687
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 892
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 2042
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 37
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 222
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 1013
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 873
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 6383
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 442
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 455
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 1679
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 1023
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 6384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 102
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 6385
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 2193
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 467
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 97
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 4947
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 2425
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 6386
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1013
+    target 6387
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1019
     target 103
     effect "Activation"
@@ -91599,6 +102045,18 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1022
+    target 222
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1022
+    target 567
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1024
     target 987
     effect "Unknown"
@@ -91669,6 +102127,18 @@ graph [
     target 1126
     effect "Activation"
     found_in "TRRUST, RegNetwork"
+  ]
+  edge [
+    source 1028
+    target 1671
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1028
+    target 426
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1029
@@ -91903,6 +102373,18 @@ graph [
     target 1159
     effect "Activation, Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1050
+    target 5950
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1050
+    target 935
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1052
@@ -92359,6 +102841,12 @@ graph [
     target 532
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1059
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1064
@@ -95613,6 +106101,660 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 1067
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6541
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 4337
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 4707
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 3812
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 983
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1059
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1655
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6371
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6310
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2215
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 3489
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 4083
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1731
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 985
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6459
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 510
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2247
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 3413
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 133
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 185
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 3013
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 5081
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 4817
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 5548
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6542
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1171
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2292
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1061
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 434
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 3614
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6487
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6543
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2052
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1940
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 545
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6544
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 344
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2214
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 3441
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2041
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6368
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 841
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1762
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1474
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 741
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6545
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 5648
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1166
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6546
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6547
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 5683
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6447
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1851
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 879
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6449
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6450
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 886
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 392
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 860
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6548
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 708
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 476
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6293
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6294
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6451
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 66
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6357
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1669
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 355
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 93
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 691
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 4160
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2272
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2253
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1819
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6550
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 5751
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6300
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6551
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2043
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2069
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 6552
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1443
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 311
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 728
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 560
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 2298
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 856
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 1153
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1067
+    target 562
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1068
     target 182
     effect "Repression"
@@ -97053,6 +108195,312 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1092
+    target 782
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6276
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 1419
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6390
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6391
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 835
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 2372
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6274
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 700
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6273
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 2922
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6272
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 2419
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 1523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 3752
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 4817
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 541
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 2417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 668
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6282
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6281
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 66
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 5999
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6392
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 1335
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 3619
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6279
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6280
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 1835
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 758
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 5705
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6278
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6277
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 797
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 3779
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 114
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 561
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6297
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6275
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 1283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 43
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6393
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6394
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 382
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1092
+    target 6271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1097
     target 168
     effect "Activation"
@@ -97099,6 +108547,12 @@ graph [
     target 598
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1101
+    target 3451
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1103
@@ -97495,6 +108949,24 @@ graph [
     target 2457
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1112
+    target 893
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1112
+    target 4278
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1112
+    target 6395
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1126
@@ -98173,6 +109645,12 @@ graph [
     target 5261
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1133
+    target 1131
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1135
@@ -98913,10 +110391,142 @@ graph [
     found_in "TRRUST, RegNetwork"
   ]
   edge [
+    source 1156
+    target 1335
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 359
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 5622
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 6396
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 6397
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 1759
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 636
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 1833
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 732
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 1007
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 169
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 2675
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 1525
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 476
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 27
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 1022
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 5950
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1156
+    target 935
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1160
     target 708
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1160
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1161
@@ -99219,6 +110829,12 @@ graph [
     found_in "TRRUST, RegNetwork"
   ]
   edge [
+    source 1166
+    target 1166
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1167
     target 937
     effect "Activation"
@@ -99237,10 +110853,40 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1167
+    target 737
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1167
+    target 1167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1167
+    target 476
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1167
+    target 1731
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1169
     target 636
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1169
+    target 955
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1170
@@ -99271,6 +110917,12 @@ graph [
     target 900
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1173
+    target 6398
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1174
@@ -99307,6 +110959,12 @@ graph [
     target 272
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1175
+    target 6399
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1176
@@ -99355,6 +111013,198 @@ graph [
     target 50
     effect "Unknown"
     found_in "TRRUST, RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 28
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 476
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 2051
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6400
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6401
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 1419
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 187
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6402
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6403
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 5070
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 5790
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6404
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 4166
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 1395
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6405
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 728
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 4759
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 433
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 592
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6406
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6407
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6408
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6409
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6410
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 4812
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6411
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 2107
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 41
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 6326
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 5378
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 2228
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1177
+    target 2787
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1182
@@ -99451,6 +111301,24 @@ graph [
     target 4319
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1184
+    target 4860
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1184
+    target 6412
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1184
+    target 6413
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1185
@@ -99715,6 +111583,24 @@ graph [
     target 1646
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1188
+    target 6370
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1188
+    target 944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1188
+    target 886
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1190
@@ -100065,6 +111951,132 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1213
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 1265
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 1219
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4364
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4370
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 1220
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4371
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4372
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4373
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4374
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4375
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 388
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 596
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4366
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 6415
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4365
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1213
+    target 4367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1217
     target 474
     effect "Activation"
@@ -100213,6 +112225,30 @@ graph [
     target 1229
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1217
+    target 1621
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1217
+    target 1386
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1217
+    target 1192
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1217
+    target 1622
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1222
@@ -100845,6 +112881,12 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1225
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1227
     target 1228
     effect "Activation"
@@ -100969,6 +113011,12 @@ graph [
     target 4375
     effect "Unknown"
     found_in "DoRothEA, RegNetwork"
+  ]
+  edge [
+    source 1229
+    target 6415
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1239
@@ -101557,6 +113605,30 @@ graph [
     target 2190
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1261
+    target 182
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1261
+    target 6295
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1261
+    target 132
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1261
+    target 270
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1276
@@ -102733,6 +114805,612 @@ graph [
     target 1466
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1312
+    target 1318
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2247
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 52
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1895
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6416
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6560
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1095
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2814
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 5081
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6542
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6487
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1324
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6543
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6561
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6446
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 418
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6418
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1043
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 186
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6562
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2355
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2142
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3616
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 659
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 5647
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3441
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1270
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3244
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6563
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6564
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 741
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 5648
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3296
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3017
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6546
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 5412
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 879
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 774
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 609
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 725
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6292
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 4451
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1673
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6378
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 320
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 886
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 708
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 4885
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 4434
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 781
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 974
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1669
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2320
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1102
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1667
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2671
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3344
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 794
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2352
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1819
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1500
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1731
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6550
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 5347
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 5751
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2078
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 311
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 629
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6421
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3626
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 856
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1817
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 4083
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1077
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1565
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6377
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6376
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 4136
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 3489
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 2215
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 983
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6362
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 6312
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1312
+    target 1026
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1313
@@ -104001,6 +116679,12 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1348
+    target 1453
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1350
     target 40
     effect "Unknown"
@@ -104227,6 +116911,30 @@ graph [
     target 1659
     effect "Activation"
     found_in "TRRUST, RegNetwork"
+  ]
+  edge [
+    source 1366
+    target 467
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1366
+    target 5423
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1366
+    target 57
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1366
+    target 535
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1371
@@ -105123,6 +117831,24 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1374
+    target 6379
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1374
+    target 1455
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1374
+    target 2329
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1377
     target 1316
     effect "Unknown"
@@ -105961,6 +118687,42 @@ graph [
     target 5406
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1378
+    target 6527
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1378
+    target 6528
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1378
+    target 5176
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1378
+    target 2253
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1378
+    target 4506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1378
+    target 6541
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1379
@@ -109335,6 +122097,204 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1478
+    target 6252
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 5647
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 659
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 380
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 3749
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 48
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1254
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 387
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 6263
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 6262
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 6259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1848
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1718
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 955
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 3807
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 4044
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 6255
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 6254
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1478
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1929
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 6253
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 787
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1046
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 304
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1543
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1096
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 4408
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 1167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1478
+    target 636
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1479
     target 5444
     effect "Unknown"
@@ -109455,6 +122415,12 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1481
+    target 970
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1496
     target 473
     effect "Activation"
@@ -109483,6 +122449,18 @@ graph [
     target 271
     effect "Repression"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1496
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1496
+    target 496
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1502
@@ -109525,6 +122503,12 @@ graph [
     target 1238
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1506
+    target 199
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1507
@@ -109903,6 +122887,36 @@ graph [
     target 1507
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1511
+    target 119
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1511
+    target 530
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1511
+    target 638
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1511
+    target 462
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1511
+    target 458
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1512
@@ -110739,6 +123753,12 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1563
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1574
     target 608
     effect "Unknown"
@@ -110763,6 +123783,12 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1575
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1576
     target 1567
     effect "Repression"
@@ -110785,6 +123811,12 @@ graph [
     target 30
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1576
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1598
@@ -111007,6 +124039,330 @@ graph [
     target 96
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 1602
+    target 261
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 696
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6446
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 416
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1116
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 383
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 5035
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1600
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 3244
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1579
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 217
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6447
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1476
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 773
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6448
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6449
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6450
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6306
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 2165
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 486
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 476
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6451
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 583
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 5765
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1147
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6453
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 2671
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 794
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 2270
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 862
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 863
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1527
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 2045
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 963
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1749
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6297
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1658
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6455
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 6456
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 4049
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 857
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 256
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 934
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 1711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1602
+    target 69
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1604
@@ -111369,6 +124725,78 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1659
+    target 591
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 524
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 1487
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 4268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 6479
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 1436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 67
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 6598
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 1784
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 4707
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 6006
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1659
+    target 522
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1660
     target 436
     effect "Activation"
@@ -111391,6 +124819,66 @@ graph [
     target 748
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1663
+    target 1977
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 5034
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 1980
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 1979
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 5458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 1976
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 1978
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 1661
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 1975
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1663
+    target 1941
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1664
@@ -111501,6 +124989,18 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1669
+    target 5938
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1669
+    target 955
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1670
     target 103
     effect "Repression"
@@ -111547,6 +125047,30 @@ graph [
     target 1210
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1671
+    target 131
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1671
+    target 1453
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1671
+    target 6445
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1671
+    target 137
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1672
@@ -112947,6 +126471,36 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 1732
+    target 6363
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1732
+    target 6597
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1732
+    target 3742
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1732
+    target 1290
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1732
+    target 5028
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1733
     target 63
     effect "Unknown"
@@ -112987,6 +126541,84 @@ graph [
     target 1737
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1733
+    target 6474
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 1723
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 1758
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 6475
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 6476
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 1990
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 1756
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 5202
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 1903
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 5571
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 6477
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 6478
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1733
+    target 4813
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1741
@@ -113289,6 +126921,12 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 1778
+    target 331
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1783
     target 602
     effect "Activation"
@@ -113311,6 +126949,24 @@ graph [
     target 1022
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1783
+    target 1749
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1783
+    target 6487
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1783
+    target 331
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1800
@@ -113901,6 +127557,12 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1818
+    target 2320
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1820
     target 4
     effect "Unknown"
@@ -114069,6 +127731,30 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1820
+    target 6578
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1820
+    target 214
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1820
+    target 6576
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1820
+    target 2332
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1821
     target 1822
     effect "Repression"
@@ -114097,6 +127783,12 @@ graph [
     target 840
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1825
+    target 199
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1826
@@ -114837,6 +128529,174 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1854
+    target 1868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 3278
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 1409
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6487
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6266
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 5527
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6488
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 7
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 1109
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 553
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6489
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6264
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6370
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6490
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6491
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 6300
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 1188
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 5167
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 1927
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 455
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 790
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 611
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 840
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 1271
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 2925
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1854
+    target 3285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1855
     target 1857
     effect "Unknown"
@@ -115443,6 +129303,12 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1855
+    target 1109
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1861
     target 1275
     effect "Repression"
@@ -115869,6 +129735,12 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 1916
+    target 1254
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1917
     target 1865
     effect "Unknown"
@@ -116275,6 +130147,162 @@ graph [
     target 458
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1939
+    target 1937
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 48
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 380
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 438
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 659
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 5647
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 6252
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 636
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1170
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1447
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1935
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1096
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1543
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 251
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1478
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 4044
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 3807
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 955
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 1848
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 6262
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 6263
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1939
+    target 387
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1942
@@ -116829,6 +130857,18 @@ graph [
     found_in "TRRUST, RegNetwork"
   ]
   edge [
+    source 1981
+    target 5034
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1981
+    target 5458
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 1982
     target 1975
     effect "Unknown"
@@ -116875,6 +130915,18 @@ graph [
     target 1980
     effect "Unknown"
     found_in "TRRUST, RegNetwork"
+  ]
+  edge [
+    source 1982
+    target 5034
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1982
+    target 5458
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1983
@@ -117013,6 +131065,18 @@ graph [
     target 1994
     effect "Activation"
     found_in "TRRUST"
+  ]
+  edge [
+    source 1993
+    target 4408
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 1993
+    target 200
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 1994
@@ -118143,6 +132207,48 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2008
+    target 460
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2008
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2008
+    target 454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2008
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2008
+    target 303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2008
+    target 851
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2008
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2010
     target 1019
     effect "Activation"
@@ -118299,10 +132405,808 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2014
+    target 417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6515
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 934
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 4243
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 117
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 403
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 4799
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6496
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 756
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 5356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1705
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1115
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 5342
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 196
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6499
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6500
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1893
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6501
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6503
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2945
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 4211
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6504
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 5215
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1880
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2390
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 5341
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2920
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2670
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6507
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 164
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 3834
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 5337
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2163
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6509
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 3959
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1904
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6498
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1205
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 878
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 5343
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6513
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6514
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 3232
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1881
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 5339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1142
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 939
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 6497
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1123
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 1897
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 2475
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2014
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2015
     target 1369
     effect "Unknown"
     found_in "TRRUST"
+  ]
+  edge [
+    source 2015
+    target 934
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 5342
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1705
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1115
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 5356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 756
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6496
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 4799
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 403
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 5337
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 3834
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 164
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6507
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2670
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2920
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 5341
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2390
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1880
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 5215
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6504
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 4211
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2945
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6503
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6501
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1893
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6500
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6499
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 196
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6498
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1904
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 3959
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6509
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2163
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 939
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1205
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 878
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6513
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6514
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 3232
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1881
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 5343
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1897
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1123
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6497
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1142
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 5339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 2475
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 6515
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 4243
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 1754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2015
+    target 117
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2016
@@ -118489,6 +133393,12 @@ graph [
     target 1500
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 2023
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2024
@@ -119577,6 +134487,204 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2034
+    target 2121
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 320
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 860
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 66
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 251
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 2253
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 1819
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 313
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 2863
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 6459
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 2162
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 2
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 592
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 6417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 1338
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 2043
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 1291
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 562
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 6359
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 321
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 1066
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 6541
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 2926
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 1258
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 6528
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 841
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 483
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 438
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 2925
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 6527
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 1006
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 386
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2034
+    target 1940
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2035
     target 212
     effect "Repression"
@@ -120099,6 +135207,24 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2051
+    target 638
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2051
+    target 2137
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2051
+    target 530
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2055
     target 705
     effect "Activation"
@@ -120249,6 +135375,18 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2071
+    target 638
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2071
+    target 530
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2072
     target 2070
     effect "Activation"
@@ -120259,6 +135397,24 @@ graph [
     target 284
     effect "Unknown"
     found_in "TRRUST, RegNetwork"
+  ]
+  edge [
+    source 2072
+    target 605
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2072
+    target 638
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2072
+    target 530
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2073
@@ -120621,6 +135777,12 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2187
+    target 4337
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2188
     target 2215
     effect "Activation"
@@ -120817,6 +135979,18 @@ graph [
     target 5619
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 2195
+    target 298
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2195
+    target 6306
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2198
@@ -121329,6 +136503,72 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2235
+    target 293
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 627
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 2889
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 5714
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 207
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 5712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 5711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2235
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2243
     target 2387
     effect "Repression"
@@ -121455,6 +136695,48 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 2245
+    target 5711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2245
+    target 5712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2245
+    target 207
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2245
+    target 5714
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2245
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2245
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2245
+    target 627
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2254
     target 60
     effect "Unknown"
@@ -121573,6 +136855,54 @@ graph [
     target 691
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 2254
+    target 293
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2254
+    target 5712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2254
+    target 5711
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2254
+    target 207
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2254
+    target 5714
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2254
+    target 3483
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2254
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2254
+    target 627
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2255
@@ -121717,6 +137047,90 @@ graph [
     target 627
     effect "Unknown"
     found_in "DoRothEA, RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 1562
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 293
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 6299
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 2493
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 2889
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 5714
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 207
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 5712
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2255
+    target 5711
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2259
@@ -121975,6 +137389,42 @@ graph [
     target 737
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 2296
+    target 851
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2296
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2296
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2296
+    target 460
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2296
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2296
+    target 303
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2297
@@ -122649,6 +138099,18 @@ graph [
     found_in "TRRUST"
   ]
   edge [
+    source 2302
+    target 6364
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2302
+    target 6365
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2304
     target 403
     effect "Repression"
@@ -123285,6 +138747,192 @@ graph [
     found_in "DoRothEA, RegNetwork"
   ]
   edge [
+    source 2389
+    target 4709
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6590
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 4136
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 2777
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 1717
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 1436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6591
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 3346
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6592
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 57
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 781
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 710
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6593
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 1472
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 886
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 483
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 1174
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 1760
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 1367
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6487
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6594
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 222
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 6416
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 1895
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 3173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 595
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2389
+    target 825
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2393
     target 2381
     effect "Unknown"
@@ -123559,6 +139207,162 @@ graph [
     target 2421
     effect "Unknown"
     found_in "DoRothEA, RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 825
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 1717
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 4168
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6595
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 3346
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6592
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 57
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 781
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6593
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 1472
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 1174
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6436
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6596
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6487
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6594
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 222
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 1895
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 3173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 595
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 4709
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 6590
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 4136
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2393
+    target 2777
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2394
@@ -126453,6 +142257,144 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 2556
+    target 6536
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 6537
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 2693
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 179
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 6538
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 3023
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 1784
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2556
+    target 6539
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 1566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2677
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 2706
     target 2707
     effect "Unknown"
@@ -126613,6 +142555,78 @@ graph [
     target 2699
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 2710
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 1566
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 2710
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 2720
@@ -129201,6 +145215,414 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 3365
+    target 5342
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1705
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1115
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 5356
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6508
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 756
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6496
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 4799
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 403
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 117
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1754
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 4243
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 934
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6515
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 417
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 868
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 697
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2475
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 5339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1142
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6497
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1123
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1897
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 5343
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1881
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 3232
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6514
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6513
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 878
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1205
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 939
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2163
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 268
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6509
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1706
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 713
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2944
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 3959
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1904
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6498
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 196
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 5215
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1880
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2390
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 5341
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2920
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6505
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2670
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6506
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6507
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 164
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 3834
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 5337
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2122
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 135
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 267
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6499
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6500
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1893
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6501
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 1141
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6502
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6503
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 2945
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 4211
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 6504
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 3365
+    target 339
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 3471
     target 5014
     effect "Unknown"
@@ -129859,6 +146281,12 @@ graph [
     target 35
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 3691
+    target 6532
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 3717
@@ -131065,6 +147493,30 @@ graph [
     target 2459
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 4408
+    target 460
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 4408
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 4408
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 4437
+    target 6524
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
   edge [
     source 4501
@@ -133347,6 +149799,132 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 5403
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 377
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 460
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 454
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 348
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5403
+    target 851
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 1511
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 5448
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 5492
     target 3261
     effect "Unknown"
@@ -135303,6 +151881,72 @@ graph [
     found_in "DoRothEA"
   ]
   edge [
+    source 6204
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 303
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 1511
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6204
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
     source 6216
     target 6217
     effect "Unknown"
@@ -135781,5 +152425,683 @@ graph [
     target 6250
     effect "Unknown"
     found_in "DoRothEA"
+  ]
+  edge [
+    source 6289
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6289
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1790
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 825
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 2204
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1260
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 200
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 5644
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 769
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1264
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 479
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 3278
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 2234
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1760
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 659
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 5647
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 6527
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 6528
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 908
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1362
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1019
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 988
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 283
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 6529
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 3302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 264
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 286
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1638
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 2937
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 743
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 6420
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 452
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 453
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 2164
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 3018
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 707
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 56
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1238
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 6530
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 796
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 30
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1172
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 535
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1281
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 6300
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 663
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 677
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 59
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 6531
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 1629
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 263
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 5968
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6300
+    target 5943
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 557
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 827
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 1302
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 3021
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 6288
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 826
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 128
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 384
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6426
+    target 549
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6427
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6428
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 72
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 25
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 173
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 1637
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 285
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 5037
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 138
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 631
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6429
+    target 130
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6485
+    target 6486
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 49
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 6539
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 1784
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 124
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 3023
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 523
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 6538
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 1259
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 179
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 2693
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 6537
+    effect "Unknown"
+    found_in "RegNetwork"
+  ]
+  edge [
+    source 6540
+    target 6536
+    effect "Unknown"
+    found_in "RegNetwork"
   ]
 ]
